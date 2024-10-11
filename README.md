@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Microservices Project
+# 🛍️ E-Commerce Microservices Project
 
-Welcome to the **E-Commerce Microservices Project**! This project is a fully functional e-commerce application built using **Spring Boot** and a variety of powerful frameworks and libraries. The project adopts a microservices architecture to handle various functionalities including **User Management**, **Product Management**, **Cart**, **Orders**, **Payments**, and **Wishlist**. It’s designed to be a scalable and flexible solution for an e-commerce platform, providing a seamless user experience on the frontend and a robust, secure backend.
+Welcome to the **E-Commerce Microservices Project**! This project represents a comprehensive e-commerce solution developed with **Spring Boot** and a variety of powerful frameworks and libraries. The project adopts a microservices architecture to handle various functionalities including **User Management**, **Product Management**, **Cart**, **Order Processing**, **Payments**, and **Wishlist**. It’s designed to be a scalable and flexible solution for an e-commerce platform, providing a seamless user experience on the frontend and a robust, secure backend.
 
 ---
 
-## 🌟 Features
+## 🚀 Key Features
 
 - **Product Service**: Handles the creation, update, deletion, and retrieval of product data.
 - **Cart Service**: Manages user carts, including adding, updating, and removing items.
